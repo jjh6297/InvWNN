@@ -1,18 +1,16 @@
 
+
 # Weight Nowcasting Network (WNN)
 
 Code for ["Learning to Unlearn by Iterative Approximation of Past Weights"]
 
 
-### dependency
+### Dependency
 
 
 <!-- dependencies: -->
-
-| Library | Known Working | Known Not Working |
-| tensorflow | 2.3.0, 2.9.0 | <= 2.0 |
-| tfimm | 0.2.14 | N/A |
-
+tensorflow >= 2.9.0 , 
+tfimm >= 0.2.14 
 <!-- | tensorflow | 2.3.0, 2.4.1 | <= 2.0 | -->
 
 
