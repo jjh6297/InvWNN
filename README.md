@@ -1,6 +1,6 @@
 
 
-# Weight Nowcasting Network (WNN)
+# Learning to Unlearn by Iterative Approximation of Past Weights
 
 Code for ["Learning to Unlearn by Iterative Approximation of Past Weights"]
 
