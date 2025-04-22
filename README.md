@@ -1,7 +1,7 @@
 
-# Learning to Unlearn by Iterative Approximation of Past Weights
+# Learning to Rewind via Iterative Prediction of Past Weights for Practical Unlearning
 
-Code for ["Learning to Unlearn by Iterative Approximation of Past Weights"]
+Code for ["Learning to Rewind via Iterative Prediction of Past Weights for Practical Unlearning"]
 
 
 ### Dependency
